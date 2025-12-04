@@ -1,4 +1,3 @@
-# train-delay-incident-prediction
 
 #  **Train Delay Incident Prediction (TNR) – Machine Learning System**
 
