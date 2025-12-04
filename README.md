@@ -2,8 +2,8 @@
 
 # 📘 **Train Delay Incident Prediction (TNR) – Machine Learning System**
 
-MSc Applied Artificial Intelligence – 7DATA001W**
-Author:** Aswanath Jayanath Sumi – 21660070
+MSc Applied Artificial Intelligence – 7DATA001W
+Author: Aswanath Jayanath Sumi – 21660070
 
 
 ## ⭐ **Project Overview**
