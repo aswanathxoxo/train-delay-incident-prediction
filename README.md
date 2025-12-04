@@ -187,7 +187,7 @@ Test passed ✔️
 
 ---
 
-## � **Key Technologies Used**
+##  **Key Technologies Used**
 
 * Python
 * Scikit-learn
