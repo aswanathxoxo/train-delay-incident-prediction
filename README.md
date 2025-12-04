@@ -1,12 +1,12 @@
 # train-delay-incident-prediction
 
-# 📘 **Train Delay Incident Prediction (TNR) – Machine Learning System**
+#  **Train Delay Incident Prediction (TNR) – Machine Learning System**
 
 MSc Applied Artificial Intelligence – 7DATA001W
 Author: Aswanath Jayanath Sumi – 21660070
 
 
-## ⭐ **Project Overview**
+##  **Project Overview**
 
 This project builds a complete Machine Learning system to **predict train incidents** before they occur, helping TransNational Railways (TNR) reduce avoidable delays and operational costs.
 
@@ -49,7 +49,7 @@ ML_COURSEWORK
 
 
 
-## 🧹 **Data Preprocessing Summary**
+##  **Data Preprocessing Summary**
 
 ### ✦ 1. Missing Value Handling
 
@@ -74,7 +74,7 @@ ML_COURSEWORK
 
 ---
 
-## 🤖 **Model Training**
+##  **Model Training**
 
 Three baseline models were implemented:
 
@@ -86,7 +86,7 @@ XGBoost performed best, so it was tuned using:
 
 
 
-## 📊 **MLflow Experiment Tracking**
+##  **MLflow Experiment Tracking**
 
 MLflow is used for:
 
@@ -106,7 +106,7 @@ Then open:
 
 ---
 
-## 📦 **Saved Model (for Deployment)**
+##  **Saved Model (for Deployment)**
 
 The final tuned model is saved at:
 
@@ -115,7 +115,7 @@ model_artifacts/tuned_xgboost_v1.0/
 ```
 
 
-## 🌐 **API Deployment (FastAPI)**
+##  **API Deployment (FastAPI)**
 
 The file **api.py** loads the saved model and exposes a prediction endpoint.
 
@@ -156,7 +156,7 @@ Example JSON:
 
 ---
 
-## 🔧 **Installation**
+##  **Installation**
 
 ### 1. Create virtual environment
 
@@ -175,7 +175,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🧪 **Testing**
+##  **Testing**
 
 A basic functional test ensures correct output shape:
 
@@ -188,7 +188,7 @@ Test passed ✔️
 
 ---
 
-## 📝 **Key Technologies Used**
+## � **Key Technologies Used**
 
 * Python
 * Scikit-learn
@@ -200,7 +200,7 @@ Test passed ✔️
 
 ---
 
-## 🎯 Final Remarks
+##  Final Remarks
 
 This project implements a complete ML lifecycle:
 
