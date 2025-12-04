@@ -24,7 +24,7 @@ The final deployed model is a **Tuned XGBoost Classifier**, achieving the best p
 
 ---
 
-## 📁 **Project Structure**
+##  **Project Structure**
 
 
 
